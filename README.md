@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **n8n**
 
-- 💬 Ask me about **Nextjs, AWS, ML**
+- 💬 Ask me about **Pytorch, AWS, ML**
 
 - 📫 How to reach me **aditya12prakash@gmail.com**
 
