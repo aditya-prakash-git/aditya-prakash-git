@@ -2,48 +2,57 @@
 
 # Aditya Prakash
 
-**Applied AI Engineer · 2x YC Founding Engineer**
+**Applied AI Engineer · 2x YC Founding Engineer · Founder @ Sonnr**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Shipping+agentic+AI+to+production;Embeddable+AI+for+insurance+%40+Upcover;Building+Sonnr%3A+a+Factory+OS+for+garments" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Shipping+agentic+AI+to+production;Insurtech+%C2%B7+Fintech+%C2%B7+Healthtech;AI+consulting+for+startups+and+SMBs" alt="typing" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aditya12prakash@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Sonnr](https://img.shields.io/badge/getsonnr.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://getsonnr.com)
+[Email](mailto:aditya12prakash@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [getsonnr.com](https://getsonnr.com)
 
 </div>
 
 ---
 
+I build AI systems that run in production, not just in demos. I've spent my career at early-stage startups across insurtech, fintech and healthtech, and now I'm building my own company while helping other teams ship AI through consulting.
+
 ### Currently
 
-- **Applied AI Engineer @ [Upcover](https://upcover.com)** (Australian insurtech): shipping central data platform that drives 80 percent of the revenue + building agentic tooling ecosystem
-- **Founder @ [Sonnr](https://getsonnr.com)**: Factory OS for garment manufacturing, running live in factories across Delhi NCR
+- **Applied AI Engineer @ [Upcover](https://upcover.com)** (Australian insurtech): shipping the central data platform behind 80% of company revenue, and building out an agentic tooling ecosystem
+- **Founder @ [Sonnr](https://getsonnr.com)**: Factory OS for garment manufacturing, live in factories across Delhi NCR
+- **Freelance AI Consultant**: helping startups and SMBs design and ship AI products and automations
 
-### Previously
+### Where I've Built
 
-- **AiPrise (YC S22)**: production LLM and multi-agent systems for KYC/KYB compliance
-- **Tennr (YC W23)**: shipped 25+ AI automations for healthcare operations
-- **Surescale.ai**: scalable AWS-based ML and automation infrastructure
+| Domain | Company | What I did |
+|---|---|---|
+| Insurtech | Upcover | Central data platform, embeddable AI onboarding widgets, agentic tooling |
+| Fintech | AiPrise (YC S22) | Production LLM and multi-agent systems for KYC/KYB compliance |
+| Healthtech | Tennr (YC W23) | Shipped 25+ AI automations for healthcare operations |
+| Manufacturing | Sonnr | Founded and built a Factory OS running on real production floors |
+| ML Infra | Surescale.ai | Scalable AWS-based ML and automation systems |
 
-### Stack
+### AI Consulting
 
-<img src="https://skillicons.dev/icons?i=py,ts,nextjs,react,nodejs,firebase,gcp,aws,supabase,docker,pytorch,vercel&perline=12" />
+I work with founders and operators who want AI doing real work inside their business, not a chatbot bolted onto the side.
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
-![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square)
+- **Agentic workflows**: multi-step agents that research, decide and act across your existing tools
+- **LLM product builds**: prototype to production, with evals and observability built in from day one
+- **Ops automation**: replacing manual back-office work in sales, finance and operations
+
+**Recent engagements**
+
+- **AI outbound sales OS** for a dental automation company: lead sourcing, multichannel outreach, AI voice calls and meeting booking, end to end
+- **Payments and onboarding** for a telehealth platform offering online doctor consultations
+
+Open to new engagements: [aditya12prakash@gmail.com](mailto:aditya12prakash@gmail.com)
+
+### Happy to Talk About
+
+- Building at YC startups and going from engineer to founder
+- Shipping AI in regulated industries: insurance, finance and healthcare
+- Agentic systems that survive contact with real users
 
 ### Certifications
 
-![AWS ML Specialty](https://img.shields.io/badge/AWS_Certified-Machine_Learning_Specialty-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS Developer](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-### Exploring
-
-LLM evals and observability · agent memory · MCP-based tool orchestration
+AWS Certified Machine Learning, Specialty · AWS Certified Developer, Associate
 
 <div align="center"><sub>10+ years writing code across web, ML and systems</sub></div>
