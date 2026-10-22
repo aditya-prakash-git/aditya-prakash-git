@@ -2,9 +2,9 @@
 
 # Aditya Prakash
 
-**Applied AI Engineer · 2x YC Founding Engineer · Founder @ Sonnr**
+**Applied AI Engineer · 2x YC Founding Engineer · Founder, Sonnr**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Shipping+agentic+AI+to+production;Insurtech+%C2%B7+Fintech+%C2%B7+Healthtech;AI+consulting+for+startups+and+SMBs" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=Applied+AI+Engineer+at+Upcover;Previously+AiPrise+%28YC+S22%29+and+Tennr+%28YC+W23%29;Founder+of+Sonnr" alt="typing" />
 
 [Email](mailto:aditya12prakash@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [getsonnr.com](https://getsonnr.com)
 
@@ -12,13 +12,13 @@
 
 ---
 
-I build AI systems that run in production, not just in demos. I've spent my career at early-stage startups across insurtech, fintech and healthtech, and now I'm building my own company while helping other teams ship AI through consulting.
+Applied AI engineer, mostly at early-stage startups. I've built production AI for insurance at Upcover, compliance at AiPrise and healthcare at Tennr. Alongside that I run Sonnr, software for garment factories, and take on freelance AI projects.
 
 ### Currently
 
-- **Applied AI Engineer @ [Upcover](https://upcover.com)** (Australian insurtech): shipping the central data platform behind 80% of company revenue, and building out an agentic tooling ecosystem
+- **Applied AI Engineer @ [Upcover](https://upcover.com)** (Australian insurtech): shipping the central data platform behind 80% of company revenue, and building out internal agentic tooling
 - **Founder @ [Sonnr](https://getsonnr.com)**: Factory OS for garment manufacturing, live in factories across Delhi NCR
-- **Freelance AI Consultant**: helping startups and SMBs design and ship AI products and automations
+- **Freelance AI Consultant**: building AI products and automations for startups and SMBs
 
 ### Where I've Built
 
@@ -27,29 +27,29 @@ I build AI systems that run in production, not just in demos. I've spent my care
 | Insurtech | Upcover | Central data platform, embeddable AI onboarding widgets, agentic tooling |
 | Fintech | AiPrise (YC S22) | Production LLM and multi-agent systems for KYC/KYB compliance |
 | Healthtech | Tennr (YC W23) | Shipped 25+ AI automations for healthcare operations |
-| Manufacturing | Sonnr | Founded and built a Factory OS running on real production floors |
-| ML Infra | Surescale.ai | Scalable AWS-based ML and automation systems |
+| Manufacturing | Sonnr | Founded and built a Factory OS used on production floors |
+| ML Infra | Surescale.ai | AWS-based ML and automation systems |
 
 ### AI Consulting
 
-I work with founders and operators who want AI doing real work inside their business, not a chatbot bolted onto the side.
+I take on a few projects at a time, usually with founders who want to automate a specific part of their business: sales, finance, operations or customer onboarding.
 
-- **Agentic workflows**: multi-step agents that research, decide and act across your existing tools
-- **LLM product builds**: prototype to production, with evals and observability built in from day one
-- **Ops automation**: replacing manual back-office work in sales, finance and operations
+- **Agent workflows**: agents that handle multi-step tasks across the tools a team already uses
+- **LLM products**: taking an idea from prototype to production, including evals and monitoring
+- **Automation**: replacing manual work in sales, finance and back-office ops
 
 **Recent engagements**
 
-- **AI outbound sales OS** for a dental automation company: lead sourcing, multichannel outreach, AI voice calls and meeting booking, end to end
+- **AI outbound sales system** for a dental automation company: lead sourcing, multichannel outreach, AI voice calls and meeting booking
 - **Payments and onboarding** for a telehealth platform offering online doctor consultations
 
-Open to new engagements: [aditya12prakash@gmail.com](mailto:aditya12prakash@gmail.com)
+Open to new projects: [aditya12prakash@gmail.com](mailto:aditya12prakash@gmail.com)
 
 ### Happy to Talk About
 
-- Building at YC startups and going from engineer to founder
-- Shipping AI in regulated industries: insurance, finance and healthcare
-- Agentic systems that survive contact with real users
+- Working at YC startups, and moving from engineer to founder
+- Building AI products for insurance, finance and healthcare
+- Designing and evaluating agent systems
 
 ### Certifications
 
