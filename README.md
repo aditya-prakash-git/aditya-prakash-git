@@ -16,7 +16,7 @@
 
 ### ⚡ Now
 
-- **Applied AI Engineer @ [Upcover](https://upcover.com)** (Australian insurtech): shipping embeddable AI onboarding widgets and the agentic tooling behind them
+- **Applied AI Engineer @ [Upcover](https://upcover.com)** (Australian insurtech): shipping central data platform that drives 80 percent of the revenue + building agentic tooling ecosystem
 - **Founder @ [Sonnr](https://getsonnr.com)**: Factory OS for garment manufacturing, running live in factories across Delhi NCR
 
 ### 🛠️ Recent Builds
