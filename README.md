@@ -32,7 +32,7 @@ Applied AI engineer, mostly at early-stage startups. I've built production AI fo
 
 ### AI Consulting
 
-I take on a few projects at a time, usually with founders who want to automate a specific part of their business: sales, finance, operations or customer onboarding.
+I take on a few calls at a time, usually with founders who want to automate a specific part of their business: sales, finance, operations or customer onboarding.
 
 - **Agent workflows**: agents that handle multi-step tasks across the tools a team already uses
 - **LLM products**: taking an idea from prototype to production, including evals and monitoring
@@ -42,8 +42,6 @@ I take on a few projects at a time, usually with founders who want to automate a
 
 - **AI outbound sales system** for a dental automation company: lead sourcing, multichannel outreach, AI voice calls and meeting booking
 - **Payments and onboarding** for a telehealth platform offering online doctor consultations
-
-Open to new projects: [aditya12prakash@gmail.com](mailto:aditya12prakash@gmail.com)
 
 ### Happy to Talk About
 
