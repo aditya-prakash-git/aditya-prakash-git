@@ -2,7 +2,7 @@
 
 # Aditya Prakash
 
-**Applied AI Engineer · Agentic Systems · LLMs in Production**
+**Applied AI Engineer · 2x YC Founding Engineer**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Shipping+agentic+AI+to+production;Embeddable+AI+for+insurance+%40+Upcover;Building+Sonnr%3A+a+Factory+OS+for+garments" alt="typing" />
 
