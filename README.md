@@ -2,7 +2,7 @@
 
 # Aditya Prakash
 
-**Applied AI Engineer · 2x YC Founding Engineer · Founder, Sonnr**
+**Applied AI Engineer · 2x YC Engineer · Founder, Sonnr**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=Applied+AI+Engineer+at+Upcover;Previously+AiPrise+%28YC+S22%29+and+Tennr+%28YC+W23%29;Founder+of+Sonnr;Insurance+by+day%2C+garment+factories+by+night" alt="typing" />
 
