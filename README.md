@@ -58,7 +58,6 @@ $ # the real one is on LinkedIn and is noticeably less chiseled
 
 Applied AI engineer, mostly at early-stage startups. I've built production AI for insurance at Upcover, compliance at AiPrise and healthcare at Tennr. On the side I run Sonnr, software for garment factories, and pick up freelance AI work.
 
-Insurance by day, garment factories by night, the occasional dentist in between.
 
 ### Currently
 
